@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260626_131350",
+  "config": {
+    "fs_hz": 4000000000.0,
+    "bandwidth_hz": 2000000000.0,
+    "n_samples": 2048,
+    "n_mc_single": 15,
+    "narrowband_freq_hz": 120123000.0,
+    "medium_freq_1_hz": 500456000.0,
+    "medium_freq_2_hz": 520789000.0,
+    "wideband_freq_hz": 1480321000.0
+  }
+}
